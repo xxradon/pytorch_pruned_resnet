@@ -1,4 +1,4 @@
-# This Project mainly from https://github.com/nerox8664/gluon2pytorch,Thanks for nerox8664's contribution.
+# This Project mainly from https://github.com/nerox8664/gluon2pytorch ,Thanks for nerox8664's contribution.
  I need pruned resnet model for detection network backbone in pytorch,and glounCV had done wonderful job.So I using gluon2pytorch
 to convert glouncv's pretrained model to pytorch.and my work is under the dir gluoncv2pytorch.
 ![alt text](docs/pruned_resnet.jpg)
